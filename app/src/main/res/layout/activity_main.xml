@@ -18,7 +18,7 @@
         android:scaleType="centerCrop"/>
 
     <EditText
-        android:id="@+id/passwordText"
+        android:id="@+id/enterPassword"
         android:layout_width="253dp"
         android:layout_height="50dp"
         android:layout_marginTop="16dp"
@@ -32,7 +32,7 @@
         android:textColorLink="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
+        app:layout_constraintTop_toBottomOf="@+id/enterEmail" />
 
     <ImageView
         android:id="@+id/nameText"
@@ -58,7 +58,7 @@
         app:layout_constraintTop_toBottomOf="@+id/nameText" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/enterEmail"
         android:layout_width="253dp"
         android:layout_height="50dp"
         android:layout_marginTop="186dp"
@@ -82,10 +82,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/passwordText">
+        app:layout_constraintTop_toBottomOf="@+id/enterPassword">
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/signInButton"
             style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -96,12 +96,13 @@
             android:textSize="20sp" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/signUpButton"
             style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16sp"
             android:layout_weight="1"
+            android:onClick="onSignUpClicked"
             android:text="SIGN UP"
             android:textSize="20sp" />
     </LinearLayout>
