@@ -34,7 +34,8 @@
                 android:layout_marginTop="12sp"
                 android:contentDescription="@string/app_name"
                 app:srcCompat="@drawable/add"
-                tools:ignore="TouchTargetSizeCheck" />
+                tools:ignore="TouchTargetSizeCheck"
+                android:onClick ="showPopUponExtra"/>
 
 
         </LinearLayout>
