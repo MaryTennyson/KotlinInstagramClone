@@ -44,6 +44,7 @@
             android:layout_marginTop="68dp"
             android:background="@android:color/transparent"
 
+            android:onClick="onClickUploadPost"
             android:text="Post"
             android:textColor="@color/black"
             android:textSize="20sp" />

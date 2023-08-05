@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "983015115220",
-    "project_id": "kotlininstaclone-62064",
-    "storage_bucket": "kotlininstaclone-62064.appspot.com"
+    "project_number": "758650297891",
+    "project_id": "instaclone-4349a",
+    "storage_bucket": "instaclone-4349a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:983015115220:android:54d89327a39a4dd2306e41",
+        "mobilesdk_app_id": "1:758650297891:android:90eadccfc05336d6539b96",
         "android_client_info": {
           "package_name": "com.ebraratabay.kotlininstagramclone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "983015115220-p0aglk5to7dmu46pmk6g7b4nu5nsotk3.apps.googleusercontent.com",
+          "client_id": "758650297891-04smmrp4k67sb3ltg9suvk4m7bu6rpet.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCCkOHXFbvlCdPWWkWqzWPeXwuLfKkc9YI"
+          "current_key": "AIzaSyBIecKGDnOx4VswpNWGqMS4az913WO4Xh0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "983015115220-p0aglk5to7dmu46pmk6g7b4nu5nsotk3.apps.googleusercontent.com",
+              "client_id": "758650297891-04smmrp4k67sb3ltg9suvk4m7bu6rpet.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
