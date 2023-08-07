@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "{project_number}",
-    "project_id": "instaclone-4349a",
-    "storage_bucket": "instaclone-4349a.appspot.com"
+    "project_id": "{project_id}",
+    "storage_bucket": "{storage_bucket}"
+  
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "{mobilesdk_app_id}",
         "android_client_info": {
-          "package_name": "com.ebraratabay.kotlininstagramclone"
+          "package_name": "{package_name}"
         }
       },
       "oauth_client": [
