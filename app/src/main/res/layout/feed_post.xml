@@ -7,7 +7,7 @@
     android:orientation="vertical">
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/feedImageView"
         android:layout_width="match_parent"
         android:layout_height="280dp"
         app:srcCompat="@drawable/addimage" />
@@ -16,6 +16,7 @@
         android:id="@+id/ownernameofpost"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8sp"
         android:text="TextView"
         android:textStyle="bold" />
 
@@ -24,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8sp"
+        android:layout_marginBottom="8sp"
         android:text="TextView"
         android:textSize="20sp" />
 </LinearLayout>

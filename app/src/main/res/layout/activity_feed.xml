@@ -21,7 +21,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="153dp"
                 android:layout_height="36dp"
-                android:layout_marginLeft="8sp"
+                android:layout_marginLeft="12sp"
                 android:layout_marginTop="12sp"
                 android:layout_weight="0"
                 app:srcCompat="@drawable/otherlogo" />
@@ -30,12 +30,11 @@
                 android:id="@+id/popUpMenu"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:layout_marginStart="200sp"
+                android:layout_marginStart="170sp"
                 android:layout_marginTop="12sp"
                 android:contentDescription="@string/app_name"
-                app:srcCompat="@drawable/add"
-                tools:ignore="TouchTargetSizeCheck"
-                android:onClick ="showPopUponExtra"/>
+                android:onClick="showPopUponExtra"
+                app:srcCompat="@drawable/plus" />
 
 
         </LinearLayout>
