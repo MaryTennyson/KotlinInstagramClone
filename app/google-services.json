@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "758650297891",
+    "project_number": "{project_number}",
     "project_id": "instaclone-4349a",
     "storage_bucket": "instaclone-4349a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:758650297891:android:90eadccfc05336d6539b96",
+        "mobilesdk_app_id": "{mobilesdk_app_id}",
         "android_client_info": {
           "package_name": "com.ebraratabay.kotlininstagramclone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "758650297891-04smmrp4k67sb3ltg9suvk4m7bu6rpet.apps.googleusercontent.com",
+          "client_id": "{client_id}",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBIecKGDnOx4VswpNWGqMS4az913WO4Xh0"
+          "current_key": "{current_key}"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "758650297891-04smmrp4k67sb3ltg9suvk4m7bu6rpet.apps.googleusercontent.com",
+              "client_id": "{client_id}",
               "client_type": 3
             }
           ]
